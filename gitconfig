@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = joris64310@yahoo.fr
+	name = Joris CHENNA joris64310@yahoo.fr
